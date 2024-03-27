@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411431016984",
+    "project_id": "native-notify-ce1c9",
+    "storage_bucket": "native-notify-ce1c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411431016984:android:e3c2364716d000bbacc16d",
+        "android_client_info": {
+          "package_name": "com.notificationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfgGv6aRV7mlepYqXHHjb2sNPjm5JF70A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
